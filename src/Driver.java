@@ -10,6 +10,9 @@ public class Driver {
 		
 		Sad sad = new Sad();
 		sad.Sad();
+		
+		Glad glad = new Glad();
+		glad.Glad();
 
 
 	}
