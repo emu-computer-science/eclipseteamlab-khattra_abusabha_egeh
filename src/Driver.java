@@ -7,6 +7,9 @@ public class Driver {
 
 		hungry hungry = new hungry();
 		hungry.hungry();
+		
+		Sad sad = new Sad();
+		sad.Sad();
 
 
 	}
