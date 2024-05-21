@@ -13,7 +13,8 @@ public class Driver {
 		
 		Glad glad = new Glad();
 		glad.Glad();
-
+       
+	Glad.Method();
 
 	}
 
