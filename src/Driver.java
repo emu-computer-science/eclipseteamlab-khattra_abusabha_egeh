@@ -10,6 +10,7 @@ public class Driver {
 		
 		Sad sad = new Sad();
 		sad.Sad();
+		sad.secondMethod();
 		
 		Glad glad = new Glad();
 		glad.Glad();
